@@ -1,6 +1,13 @@
 # state_managements_shop_app
 
-A new Flutter project.
+"Doesn't matter the approach, solve the problem!", a Flutterando's challenge.
+
+## Mockup
+
+- [Coffee Shop App by Farzan Faruk](https://dribbble.com/shots/13236871-Coffee-shop-App)
+
+## State Managements Approaches
+- TBD
 
 ## Getting Started
 
